@@ -79,7 +79,7 @@ export const projectsData = [
     title: "Word Analytics",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    tags: ["React", "Next.js", "SQL", "Tailwind",],
     imageUrl: wordanalyticsImg,
   },
 ] as const;
@@ -94,14 +94,13 @@ export const skillsData = [
   "Node.js",
   "Git",
   "Tailwind",
-  "Prisma",
   "MongoDB",
   "Redux",
   "GraphQL",
-  "Apollo",
+  "AWS",
   "Express",
   "PostgreSQL",
-  "Python",
-  "Django",
-  "Framer Motion",
+  "CI/CD Jenkins",
+  "Docker",
+  "Kubernetes",
 ] as const;
