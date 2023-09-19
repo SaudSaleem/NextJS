@@ -36,50 +36,65 @@ export const links = [
 export const experiencesData = [
   {
     title: "Graduated bootcamp",
-    location: "Miami, FL",
+    location: "Lahore, PK",
     description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
+      "I have a bachelor's degree in computer science. Major subjects of degree are OOP, Data Structure And Algorithms, Web Development, Compiler Construction, Operation System, Computer Networking, Data Science, Machine Learning, and Theory of Automata.",
     icon: React.createElement(LuGraduationCap),
-    date: "2019",
+    date: "2020",
   },
   {
     title: "Front-End Developer",
-    location: "Orlando, FL",
+    location: "Lahore, PK",
     description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
+      "I worked as a Software Engineer in Programmers Force. It has headquartered in the United Kingdom. It specialise in Application Programming Interface (API) Development and Integration, Fintech Solutions, Enterprise Applications, Mobile App Development, and Big Data Processing to facilitate several corporate clients.",
     icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2021",
+    date: "2020 - 2022",
   },
   {
     title: "Full-Stack Developer",
-    location: "Houston, TX",
+    location: "Lahore, PK",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
+      "I worked across multiple projects with an agile team as a full-stack javascript developer. I joined Invozone in the capacity of Frontend Engineer and now become a Full Stack Developer.",
     icon: React.createElement(FaReact),
-    date: "2021 - present",
+    date: "2022 - 2023",
+  },
+  {
+    title: "Full-Stack Developer",
+    location: "USA, Remote",
+    description:
+      "Working as a Senior Frontend Engineer. Helping organisation to deliver state of the art feature for real estate domain. Technologies Vue, Django, AWS.",
+    icon: React.createElement(FaReact),
+    date: "2022 - 2023",
   },
 ] as const;
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "WhistleIt",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
+      "I worked as a Frontend developer on this startup project for 2 years. Users can communicate just like slack.",
+    tags: ["Vue", "Veutify", "MongoDB", "Bootsrap", "Node", "Docker"],
     imageUrl: corpcommentImg,
   },
   {
-    title: "rmtDev",
+    title: "Invohub",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
+      "Invohub is developed for managing resources data. Such as managing resources salaries, theirs increment record, performance in different projects, attendance, remaining annual, casual, sick leaves.",
+    tags: ["React", "Node", "Postgress", "Next", "Redux"],
     imageUrl: rmtdevImg,
   },
   {
-    title: "Word Analytics",
+    title: "Gigimot",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind",],
+      "Gigimot is online video meeting app, which gives users flexibility to arrange one to one or group recurring virtual meetings. This product is used by health and wellness coaches, teachers.",
+    tags: ["Vue", "Node", "Postgres",],
+    imageUrl: wordanalyticsImg,
+  },
+  {
+    title: "Unchained Carrot",
+    description:
+      "Unchained Carrot is unique project that gives companies and marketers the ability to easily create reward-based marketing campaigns.",
+    tags: ["Vue", "Veutify",],
     imageUrl: wordanalyticsImg,
   },
 ] as const;
@@ -93,6 +108,8 @@ export const skillsData = [
   "Next.js",
   "Node.js",
   "Git",
+  "Vue",
+  "Angular",
   "Tailwind",
   "MongoDB",
   "Redux",
