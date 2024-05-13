@@ -34,8 +34,8 @@ export default function About() {
         learn new technologies. I am currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a software
         developer. */}
-              5+ years experience in Front-End Development and Full Stack Development with a strong background in
-      delivering cutting-edge features. Proficient in Vue, React, Angular, Node, and AWS technologies. Skilled in
+              5+ years experience in ML, AI, Full Stack Development with a strong background in
+      delivering cutting-edge features. Proficient in ML, AI, Vue, React, Angular, Node, and AWS technologies. Skilled in
       designing and building frontend core features, optimizing code for non-blocking performance, and modernizing
       legacy codebases into modern frameworks.
       </p>
