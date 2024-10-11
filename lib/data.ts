@@ -36,7 +36,7 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Full-Stack Developer",
+    title: "Lead Frontend Developer",
     location: "USA, Remote",
     description:
       "Working as a Senior Frontend Engineer. Helping organisation to deliver state of the art feature for real estate domain. Technologies Vue, Django, AWS.",
